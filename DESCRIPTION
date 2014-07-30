@@ -1,0 +1,15 @@
+Package: metaHD
+Type: Package
+Title: Fast high-dimensional meta analyisis
+Version: 0.1
+Date: 2014-07-30
+Author: Anders Ellern Bilgrau
+Maintainer: Anders Ellern Bilgrau <abilgrau@math.aau.dk>
+Description: Fast, robust, and efficient high-dimensional meta analyisis.
+License: GPL (>=2)
+Imports:
+    Rcpp (>= 0.10.6)
+LinkingTo: Rcpp, RcppArmadillo, RcppEigen
+Suggests:
+    testthat (>= 0.3)
+URL: https://github.com/AEBilgrau/correlateR
