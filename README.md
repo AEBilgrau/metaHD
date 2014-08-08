@@ -2,7 +2,7 @@ metaHD
 ======
 ### Fast, efficient, and robust high-dimensional meta analysis
 
-The package is designed to efficiently perform high-dimensional (low dimensional) meta analysis in both on dense and sparse cases. The `metaHD` package is also well-suited for graphical (or structural) meta analysis.
+The package is designed to efficiently perform high-dimensional (and low dimensional) meta analysis in both dense and sparse cases. The `metaHD` package is also well-suited for graphical (or structural) meta analysis.
 
 Installation
 ------------
