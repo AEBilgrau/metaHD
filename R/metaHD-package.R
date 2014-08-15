@@ -6,6 +6,8 @@
 #'
 #' @author Anders Ellern Bilgrau <abilgrau (at) math.aau.dk>
 #' @docType package
-#' @name correlateR-package
-#' @aliases correlateR-package correlater correlateR
+#' @name metaHD-package
+#' @aliases metaHD-package metaHD metahd
+#' @useDynLib metaHD
+#' @importFrom Rcpp evalCpp
 NULL
