@@ -5,6 +5,8 @@ Version: 0.1
 Date: 2014-07-30
 Author: Anders Ellern Bilgrau
 Maintainer: Anders Ellern Bilgrau <abilgrau@math.aau.dk>
+URL: http://github.com/AEBilgrau/metaHD
+BugReports: https://github.com/AEBilgrau/metaHD/issues
 Description: Fast, robust, and efficient high-dimensional meta analyisis.
 License: GPL (>=2)
 Imports:
