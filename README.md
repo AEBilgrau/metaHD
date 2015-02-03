@@ -5,7 +5,7 @@ metaHD
 [![Build Status](https://api.travis-ci.org/AEBilgrau/metaHD.svg?branch=master)](https://travis-ci.org/AEBilgrau/metaHD)
 
 This R package aims to efficiently perform primarily high-dimensional (and low-dimensional) meta analysis in both dense and sparse cases. The `metaHD` package should also well-suited for graphical (or structural) meta analysis. It is currently under development.
-
+This package is currently not being actively developed.
 
 Installation
 ------------
@@ -16,7 +16,7 @@ If you wish to install the latest version of `metaHD` directly from the master b
 devtools::install_github("AEBilgrau/metaHD")
 ```
 
-The package is still under heavy development and should be considered unstable. Be sure that you have the [package development prerequisites](http://www.rstudio.com/ide/docs/packages/prerequisites) if you wish to install the package from the source.
+The package is not currently being actively development. The package should also be considered unstable. Be sure that you have the [package development prerequisites](http://www.rstudio.com/ide/docs/packages/prerequisites) if you wish to install the package from the source.
 
 
 Alternatives
